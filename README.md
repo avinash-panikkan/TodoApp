@@ -18,4 +18,4 @@ reactstrap
 
 ## Images
 ![Screenshot1](./img/todo1.png)
-![Screenshot2](./img/todo2.png0)
+![Screenshot2](./img/todo2.png)
